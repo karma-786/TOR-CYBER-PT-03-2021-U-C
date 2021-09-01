@@ -6,7 +6,7 @@ You can use the quick links below to access the correct class materials
 
 |                       Unit                        |  Day 1  |  Day 2  |  Day 3  |  Homework  |
 |:-----------------------------------------------:  |:------: |:------: |:------: |:---------: |
-|               Unit 1: Security 101                |[Day 1]()                 |                  [Day 2]()                 |                  [Day 3]()                 |                [Homework 1]()               |
+|               Unit 1: Security 101                |[Day 1](https://github.com/karma-786/Week-1-Cybersecurity-101/tree/main/1%20-%202021-03-08)                 |                  [Day 2]()                 |                  [Day 3]()                 |                [Homework 1]()               |
 |       Unit 2: Governance, Risk, Compliance        |                     [Day 1]()                   |                    [Day 2]()                    |                    [Day 3]()                    |                        [Homework 2 ]()                    |
 |                 Unit 3: Terminal                  |             [Day 1]()             |            [Day 2]()              |             [Day 3]()             |                 [Homework 3]()              |
 |       Unit 4: Linux SysAdmin Fundamentals         |         [Day 1]()       |       [Day 2]()         |        [Day 3]()        |            [Homework 4]()         |
