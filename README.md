@@ -1,8 +1,8 @@
 # TOR-CYBER-PT-03-2021-U-C
 
-**Welcome to the UofT Cyber Security Bootcamp GitLab repo**
+**Welcome to the UofT Cyber Security Bootcamp**
 
-You can use the quick links below to access the correct class materials
+You can use the quick links below to access the solutions for the class materials
 
 |                    Unit                       | Homework Solutions |
 |:-------------------------------------------:  |:-----------------: |
